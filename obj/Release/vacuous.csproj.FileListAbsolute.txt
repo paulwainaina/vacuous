@@ -1,0 +1,7 @@
+C:\Users\gollum\Desktop\vacuous\bin\Release\vacuous.exe.config
+C:\Users\gollum\Desktop\vacuous\bin\Release\vacuous.exe
+C:\Users\gollum\Desktop\vacuous\bin\Release\vacuous.pdb
+C:\Users\gollum\Desktop\vacuous\obj\Release\vacuous.csprojAssemblyReference.cache
+C:\Users\gollum\Desktop\vacuous\obj\Release\vacuous.csproj.CoreCompileInputs.cache
+C:\Users\gollum\Desktop\vacuous\obj\Release\vacuous.exe
+C:\Users\gollum\Desktop\vacuous\obj\Release\vacuous.pdb
